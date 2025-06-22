@@ -6,14 +6,7 @@
 
 ## 📁 Project Structure
 
-GEN-AI/
-│
-├── node_modules/ # Installed dependencies (auto-generated)
-├── LLM.js # Main logic for question-answering and history tracking
-├── package.json # Project metadata and dependencies
-├── package-lock.json # Exact versions of installed packages
-└── README.md # Project overview and setup instructions
-
+![image](https://github.com/user-attachments/assets/407c1560-5a42-447e-8c5a-9df5fe490b16)
 
 
 ## 🛠️ Features
