@@ -14,9 +14,7 @@ GEN-AI/
 ├── package-lock.json # Exact versions of installed packages
 └── README.md # Project overview and setup instructions
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -69,9 +67,6 @@ If you have any questions or suggestions, feel free to reach out via GitHub Issu
 📜 License
 This project is open-source. Feel free to fork, modify, and use it as needed.
 
-vbnet
-Copy
-Edit
 
 Let me know if you'd like me to customize this further for a CLI tool, web app, or API project structure.
 
