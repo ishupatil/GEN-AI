@@ -16,8 +16,6 @@ GEN-AI/
 
 
 
----
-
 ## 🛠️ Features
 
 - Uses a local LLM setup (likely through an API or model logic in `LLM.js`)
@@ -30,21 +28,21 @@ GEN-AI/
 
 Follow these steps to clone and run the project locally.
 
-### 1. Clone the Repository
-
-
-git clone https://github.com/ishupatil/GEN-AI.git
+### 1. Clone the Repository:  git clone https://github.com/ishupatil/GEN-AI.git
 cd GEN-AI
-2. Install Dependencies
-Make sure Node.js is installed (recommend v16+).
 
 
+2. Install Dependencies:
+    Make sure Node.js is installed (recommend v16+).
 npm install
-3. Run the Project
+
+
+4. Run the Project
 Assuming LLM.js is the main entry file
-
-
 node LLM.js
+
+
+
 📄 File Descriptions
 File / Folder	Description
 LLM.js	Main script for handling input/output and LLM logic
@@ -66,6 +64,7 @@ If you have any questions or suggestions, feel free to reach out via GitHub Issu
 
 📜 License
 This project is open-source. Feel free to fork, modify, and use it as needed.
+
 
 
 Let me know if you'd like me to customize this further for a CLI tool, web app, or API project structure.
