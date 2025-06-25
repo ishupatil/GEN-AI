@@ -39,6 +39,16 @@ node LLM.js
 ![image](https://github.com/user-attachments/assets/4e4c94df-4380-4f9c-bb9d-0919353f87b6)
 
 
+## 🔐 Secure API Key Usage
+
+This project uses Google Generative AI securely by loading the API key from a `.env` file.  
+To run locally:
+
+1. Create a `.env` file
+2. Add your API key:
+
+
+
 🧠 Future Enhancements
 Add a web or CLI interface
 
